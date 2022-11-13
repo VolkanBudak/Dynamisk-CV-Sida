@@ -1,0 +1,35 @@
+{
+  "about": {
+    "name": "Volkan Budak",
+    "age": "22",
+    "phone": "0707214408"
+  },
+  "education": [
+    {
+      "heading": "2009-2016 - Valstaskolan",
+      "description": "Grundskola och Mellanskola,"
+    },
+    {
+      "heading": "2016-2019 - Väsby Nya Gymnasium",
+      "description": "Högskola, Programmerings inriktningen,"
+    },
+    {
+      "heading": "2022-, Chas Academy",
+      "description": "Yrkeshögskola, Fullstack JavaScript-utvecklare"
+    }
+  ],
+  "employment": [
+    {
+      "heading": "2018-2018 - Edda förskola Sigtuna Kommun",
+      "description": "Sommarjobb som dagis lärare inom Sigtuna Kommun"
+    },
+    {
+      "heading": "2019-2020 - Arlanda SSP",
+      "description": "Anställd som kassapersonal"
+    },
+    {
+      "heading": "2020-2021 - Sherwin Williams",
+      "description": "Anställd som Operatör där jag fick tillverka färg, spackel och lacker för företaget. "
+    }
+  ]
+}

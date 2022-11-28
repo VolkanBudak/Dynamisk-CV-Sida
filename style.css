@@ -361,17 +361,12 @@ form {
   background: var(--darkred);
 }
 
-.a-git {
-  text-decoration: none;
-}
-
-.a-git:visited,
-.a-git:link {
-  color: black;
-}
-
-.a-git:hover {
-  color: turquoise;
+img {
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  align-items: center;
 }
 
 @media (min-width: 500px) {
